@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="epson9" size="2.000000 2.000000" />
+    <ImageTarget name="epson8" size="2.000000 2.000000" />
+    <ImageTarget name="epson7" size="2.000000 2.000000" />
+    <ImageTarget name="epson6" size="2.000000 2.000000" />
+    <ImageTarget name="epson5" size="2.000000 2.000000" />
+    <ImageTarget name="epson4" size="2.000000 2.000000" />
+    <ImageTarget name="epson3" size="2.000000 2.000000" />
+    <ImageTarget name="epson2" size="2.000000 2.000000" />
+    <ImageTarget name="epson1" size="2.000000 2.000000" />
+    <ImageTarget name="epson0" size="2.000000 2.000000" />
+    <ImageTarget name="answer" size="2.000000 2.000000" />
+  </Tracking>
+</QCARConfig>

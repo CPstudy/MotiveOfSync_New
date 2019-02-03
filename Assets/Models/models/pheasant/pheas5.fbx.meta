@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: fe6a015175086da4d82346aaabbf3edb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: beakLowerTip
+    100002: //RootNode
+    100004: PheasantBody
+    100006: rigfinal:allTailFeathersGroup
+    100008: rigfinal:global_rig_Grp
+    100010: rigfinal:jnt_beak_01
+    100012: rigfinal:jnt_beakLower
+    100014: rigfinal:jnt_eye_L
+    100016: rigfinal:jnt_eye_R
+    100018: rigfinal:jnt_head
+    100020: rigfinal:jnt_L_foot_root
+    100022: rigfinal:jnt_L_hip
+    100024: rigfinal:jnt_L_knee
+    100026: rigfinal:jnt_L_thumb_01
+    100028: rigfinal:jnt_L_thumb_02
+    100030: rigfinal:jnt_L_thumb_03
+    100032: rigfinal:jnt_L_thumb_04
+    100034: rigfinal:jnt_L_toe_01_a
+    100036: rigfinal:jnt_L_toe_01_b
+    100038: rigfinal:jnt_L_toe_01_c
+    100040: rigfinal:jnt_L_toe_02_a
+    100042: rigfinal:jnt_L_toe_02_b
+    100044: rigfinal:jnt_L_toe_02_c
+    100046: rigfinal:jnt_L_toe_03_a
+    100048: rigfinal:jnt_L_toe_03_b
+    100050: rigfinal:jnt_L_toe_03_c
+    100052: rigfinal:jnt_L_toe_04_a
+    100054: rigfinal:jnt_L_toe_04_b
+    100056: rigfinal:jnt_L_toe_04_c
+    100058: rigfinal:jnt_L_toe_root_a
+    100060: rigfinal:jnt_L_toe_root_c
+    100062: rigfinal:jnt_midsection
+    100064: rigfinal:jnt_neck_01
+    100066: rigfinal:jnt_neck_02
+    100068: rigfinal:jnt_R_foot_root
+    100070: rigfinal:jnt_R_hip
+    100072: rigfinal:jnt_R_knee
+    100074: rigfinal:jnt_R_thumb_01
+    100076: rigfinal:jnt_R_thumb_02
+    100078: rigfinal:jnt_R_thumb_03
+    100080: rigfinal:jnt_R_thumb_04
+    100082: rigfinal:jnt_R_toe_01_b
+    100084: rigfinal:jnt_R_toe_01_b 1
+    100086: rigfinal:jnt_R_toe_01_c
+    100088: rigfinal:jnt_R_toe_02_b
+    100090: rigfinal:jnt_R_toe_02_b 1
+    100092: rigfinal:jnt_R_toe_02_c
+    100094: rigfinal:jnt_R_toe_03_b
+    100096: rigfinal:jnt_R_toe_03_b 1
+    100098: rigfinal:jnt_R_toe_03_c
+    100100: rigfinal:jnt_R_toe_04_b
+    100102: rigfinal:jnt_R_toe_04_b 1
+    100104: rigfinal:jnt_R_toe_04_c
+    100106: rigfinal:jnt_R_toe_root_a
+    100108: rigfinal:jnt_R_toe_root_c
+    100110: rigfinal:jnt_Root
+    100112: rigfinal:jnt_tail_01
+    100114: rigfinal:jnt_tail_02
+    100116: rigfinal:jnt_tail_03END
+    100118: rigfinal:robin_cntrl_master
+    100120: rigfinal:skeleton_Grp
+    100122: rigfinal:tail1
+    100124: tail1
+    100126: tail2
+    100128: upperBeakbase
+    100130: upperBeakTip
+    400000: beakLowerTip
+    400002: //RootNode
+    400004: PheasantBody
+    400006: rigfinal:allTailFeathersGroup
+    400008: rigfinal:global_rig_Grp
+    400010: rigfinal:jnt_beak_01
+    400012: rigfinal:jnt_beakLower
+    400014: rigfinal:jnt_eye_L
+    400016: rigfinal:jnt_eye_R
+    400018: rigfinal:jnt_head
+    400020: rigfinal:jnt_L_foot_root
+    400022: rigfinal:jnt_L_hip
+    400024: rigfinal:jnt_L_knee
+    400026: rigfinal:jnt_L_thumb_01
+    400028: rigfinal:jnt_L_thumb_02
+    400030: rigfinal:jnt_L_thumb_03
+    400032: rigfinal:jnt_L_thumb_04
+    400034: rigfinal:jnt_L_toe_01_a
+    400036: rigfinal:jnt_L_toe_01_b
+    400038: rigfinal:jnt_L_toe_01_c
+    400040: rigfinal:jnt_L_toe_02_a
+    400042: rigfinal:jnt_L_toe_02_b
+    400044: rigfinal:jnt_L_toe_02_c
+    400046: rigfinal:jnt_L_toe_03_a
+    400048: rigfinal:jnt_L_toe_03_b
+    400050: rigfinal:jnt_L_toe_03_c
+    400052: rigfinal:jnt_L_toe_04_a
+    400054: rigfinal:jnt_L_toe_04_b
+    400056: rigfinal:jnt_L_toe_04_c
+    400058: rigfinal:jnt_L_toe_root_a
+    400060: rigfinal:jnt_L_toe_root_c
+    400062: rigfinal:jnt_midsection
+    400064: rigfinal:jnt_neck_01
+    400066: rigfinal:jnt_neck_02
+    400068: rigfinal:jnt_R_foot_root
+    400070: rigfinal:jnt_R_hip
+    400072: rigfinal:jnt_R_knee
+    400074: rigfinal:jnt_R_thumb_01
+    400076: rigfinal:jnt_R_thumb_02
+    400078: rigfinal:jnt_R_thumb_03
+    400080: rigfinal:jnt_R_thumb_04
+    400082: rigfinal:jnt_R_toe_01_b
+    400084: rigfinal:jnt_R_toe_01_b 1
+    400086: rigfinal:jnt_R_toe_01_c
+    400088: rigfinal:jnt_R_toe_02_b
+    400090: rigfinal:jnt_R_toe_02_b 1
+    400092: rigfinal:jnt_R_toe_02_c
+    400094: rigfinal:jnt_R_toe_03_b
+    400096: rigfinal:jnt_R_toe_03_b 1
+    400098: rigfinal:jnt_R_toe_03_c
+    400100: rigfinal:jnt_R_toe_04_b
+    400102: rigfinal:jnt_R_toe_04_b 1
+    400104: rigfinal:jnt_R_toe_04_c
+    400106: rigfinal:jnt_R_toe_root_a
+    400108: rigfinal:jnt_R_toe_root_c
+    400110: rigfinal:jnt_Root
+    400112: rigfinal:jnt_tail_01
+    400114: rigfinal:jnt_tail_02
+    400116: rigfinal:jnt_tail_03END
+    400118: rigfinal:robin_cntrl_master
+    400120: rigfinal:skeleton_Grp
+    400122: rigfinal:tail1
+    400124: tail1
+    400126: tail2
+    400128: upperBeakbase
+    400130: upperBeakTip
+    2100000: lambert5
+    2100002: pheasnantTexture
+    2300000: rigfinal:tail1
+    2300002: tail1
+    2300004: tail2
+    3300000: rigfinal:tail1
+    3300002: tail1
+    3300004: tail2
+    4300000: rigfinal:tail1
+    4300002: tail1
+    4300004: tail2
+    4300006: PheasantBody
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: PheasantBody
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 420
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: d5413cd52f9eb8c4eb0321e206542d4f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body1
+    100002: Body2
+    100004: Body3
+    100006: Body4
+    100008: Bone002
+    100010: Bone003
+    100012: Bone010
+    100014: Bone011
+    100016: Bone019
+    100018: Bone020
+    100020: Bone021
+    100022: Bone022
+    100024: Bone023
+    100026: Bone024
+    100028: Bone025
+    100030: Bone026
+    100032: Bone027
+    100034: Bone028
+    100036: Bone029
+    100038: Bone030
+    100040: Bone031
+    100042: Bone032
+    100044: Bone033
+    100046: Bone034
+    100048: Bone035
+    100050: Bone036
+    100052: Bone037
+    100054: Bone038
+    100056: Bone039
+    100058: Bone040
+    100060: Bone041
+    100062: Bone042
+    100064: //RootNode
+    100066: BunnyPelvis
+    100068: nose
+    100070: Object018
+    100072: Object019
+    100074: Object020
+    100076: Object021
+    100078: Object022
+    100080: Object023
+    100082: Object024
+    100084: Object026
+    100086: Object027
+    100088: Object028
+    100090: Object029
+    100092: Object030
+    100094: Object031
+    100096: rock1a
+    100098: Tail1
+    100100: Tail1tail3
+    100102: Tail2
+    100104: Tail4
+    400000: Body1
+    400002: Body2
+    400004: Body3
+    400006: Body4
+    400008: Bone002
+    400010: Bone003
+    400012: Bone010
+    400014: Bone011
+    400016: Bone019
+    400018: Bone020
+    400020: Bone021
+    400022: Bone022
+    400024: Bone023
+    400026: Bone024
+    400028: Bone025
+    400030: Bone026
+    400032: Bone027
+    400034: Bone028
+    400036: Bone029
+    400038: Bone030
+    400040: Bone031
+    400042: Bone032
+    400044: Bone033
+    400046: Bone034
+    400048: Bone035
+    400050: Bone036
+    400052: Bone037
+    400054: Bone038
+    400056: Bone039
+    400058: Bone040
+    400060: Bone041
+    400062: Bone042
+    400064: //RootNode
+    400066: BunnyPelvis
+    400068: nose
+    400070: Object018
+    400072: Object019
+    400074: Object020
+    400076: Object021
+    400078: Object022
+    400080: Object023
+    400082: Object024
+    400084: Object026
+    400086: Object027
+    400088: Object028
+    400090: Object029
+    400092: Object030
+    400094: Object031
+    400096: rock1a
+    400098: Tail1
+    400100: Tail1tail3
+    400102: Tail2
+    400104: Tail4
+    2100000: 1053
+    2100002: rock1
+    2300000: Object019
+    2300002: Object020
+    2300004: Object022
+    2300006: Object023
+    2300008: Object024
+    2300010: Object026
+    2300012: Object027
+    2300014: Object028
+    2300016: Object029
+    2300018: Object030
+    2300020: Object031
+    2300022: rock1a
+    3300000: Object019
+    3300002: Object020
+    3300004: Object022
+    3300006: Object023
+    3300008: Object024
+    3300010: Object026
+    3300012: Object027
+    3300014: Object028
+    3300016: Object029
+    3300018: Object030
+    3300020: Object031
+    3300022: rock1a
+    4300000: Object018
+    4300002: Object019
+    4300004: Object020
+    4300006: Object021
+    4300008: Object022
+    4300010: Object023
+    4300012: Object024
+    4300014: Object026
+    4300016: Object027
+    4300018: Object028
+    4300020: Object029
+    4300022: Object030
+    4300024: Object031
+    4300026: rock1a
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object018
+    13700002: Object021
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
